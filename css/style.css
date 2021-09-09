@@ -399,12 +399,12 @@ header{
 }
 
 .fa{
-    font-size: 3vh !important;
+    font-size: 4vh !important;
     margin: 5px;
     font-weight: 600;
 }
 
-input{
+.input {
     padding: 10px;
     justify-content: center;
     margin: 10px;
